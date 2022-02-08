@@ -1,0 +1,9 @@
+Open a terminal at the directory and type make. This will basically run the the commands for you, so you don't have to manually. It will create executables for all the files. 
+
+To run them simply write ./name where name is the name of the file for ex:
+./fibonacci
+./factorial
+./powers
+./quadrant
+
+To get rid of the executables type: make clean
